@@ -17,7 +17,7 @@ public class LaunchAppFrame extends JFrame {
         setLocationRelativeTo(null);
 
         JPanel panel = new JPanel();
-        JButton launchButton = new JButton("Launch Application");
+        JButton launchButton = new JButton("Launch Calculator");
         launchButton.addActionListener(new ActionListener() {
             public void actionPerformed(ActionEvent e) {
                 launchTargetApplication();
@@ -28,7 +28,8 @@ public class LaunchAppFrame extends JFrame {
     }
 
     private void launchTargetApplication() {
-        String targetAppPath = "run_two.java"; // Replace with the actual path to your target application
+        String targetAppPath = "/System/Applications/Calculator.app" + //
+                ""; // Replace with the actual path to your target application
         File targetAppFile = new File(targetAppPath);
 
         if (Desktop.isDesktopSupported() && Desktop.getDesktop().isSupported(Desktop.Action.OPEN)) {
