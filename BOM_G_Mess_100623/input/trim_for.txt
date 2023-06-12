@@ -2,25 +2,34 @@ IDV10450
 Australian Government Bureau of Meteorology
 Victoria
 
-Updated Melbourne Metropolitan Area Forecast
-Issued at 9:34 am EST on Saturday 10 June 2023
-for the period until midnight EST Friday 16 June 2023.
+Melbourne Metropolitan Area Forecast
+Issued at 4:20 pm EST on Monday 12 June 2023
+for the period until midnight EST Monday 19 June 2023.
 
 Warning Information
 For latest warnings go to www.bom.gov.au, subscribe to RSS feeds, call 1300 659
 210* or listen for warnings on relevant TV and radio broadcasts.
 
-Forecast for the rest of Saturday 10 June
-Partly cloudy. Winds north to northwesterly 20 to 30 km/h.
+Forecast for the rest of Monday 12 June
+Partly cloudy. Winds northerly 25 to 35 km/h increasing to 25 to 40 km/h in the
+late evening.
 
-City Centre         Partly cloudy.                Max 16  
+City Centre         Partly cloudy.                
 Chance of any rain: 5%                  
 
 
+Forecast for Tuesday 13 June
+Cloudy. High chance of showers. Winds northerly 30 to 45 km/h turning
+northwesterly 20 to 30 km/h during the afternoon and evening.
+
+City Centre         Shower or two. Wind easing.   Min 9     Max 14  
+Possible rainfall: 0 to 1 mm     Chance of any rain: 70%                 
+
+
 Around Melbourne
-Frankston           Max 16    Scoresby            Max 15    
-Geelong             Max 16    Tullamarine         Max 16    
-Laverton            Max 16    Watsonia            Max 16    
-Mount Dandenong     Max 11    Yarra Glen          Max 15    
+Frankston           Min 9     Max 15    Scoresby            Min 9     Max 14    
+Geelong             Min 9     Max 15    Tullamarine         Min 8     Max 14    
+Laverton            Min 8     Max 15    Watsonia            Min 9     Max 14    
+Mount Dandenong     Min 7     Max 9     Yarra Glen          Min 7     Max 13    
 
 Sun protection not recommended, UV Index predicted to reach 1 [Low]
